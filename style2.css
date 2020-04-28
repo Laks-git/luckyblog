@@ -1,0 +1,28 @@
+.container-1{
+    border: 10px solid gray;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Calibri';
+    font-style: italic;
+    background-color: lightblue;
+  
+            }
+
+.flex-box-container-1{
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative;
+        
+}
+
+a:hover{
+ background: blue;
+ color: white;
+ }
+
+
